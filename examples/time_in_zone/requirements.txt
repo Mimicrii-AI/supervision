@@ -4,3 +4,4 @@ inference
 # https://github.com/pytube/pytube/issues/2044
 # pytube
 pytubefix
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
