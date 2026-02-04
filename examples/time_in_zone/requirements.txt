@@ -4,3 +4,4 @@ inference
 # https://github.com/pytube/pytube/issues/2044
 # pytube
 pytubefix
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
